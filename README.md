@@ -1,7 +1,7 @@
-```markdown
+markdown
 # 📊 Customer Churn Analysis & Prediction – Power BI Project  
 
-Welcome to the **Customer Churn Dashboard Project!**  
+Welcome to the **Customer Churn Dashboard Project**!  
 This project delivers a detailed **analysis and prediction of customer churn** in the telecom industry. It helps identify **at-risk customers**, analyze **churn drivers**, and support **retention strategies**.  
 
 ---
